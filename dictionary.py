@@ -8,3 +8,9 @@ def addItem(key, value):
 
 addItem("Horst", "Kurt")
 print(dictionary["Horst"])
+##
+#
+#
+#
+#
+print("hola mundo")
